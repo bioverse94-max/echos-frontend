@@ -55,7 +55,7 @@
       },
   "scripts": {
     "dev": "vite",                    
-    "build": "[my-framework] build --output public"            
+    "build": "vite build"            
     "preview": "vite preview --port 4173", 
     "start": "vite preview --port $PORT" 
   }
