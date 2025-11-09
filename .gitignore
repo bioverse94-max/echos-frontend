@@ -1,5 +1,7 @@
 node_modules
 
+build
+
 # Environment files (CRITICAL - never commit these)
 .env
 .env.local
